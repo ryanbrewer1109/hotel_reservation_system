@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1532307188 source:c:\users\ryanb\onedrive\ryan_college files\cs-3330\project 2\project_2_codeblocks\hotelrecord.cpp
+	"HotelRecord.h"
+	<algorithm>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<list>
+	<math.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1532307188 c:\users\ryanb\onedrive\ryan_college files\cs-3330\project 2\project_2_codeblocks\hotelrecord.h
+	<math.h>
+	<stdio.h>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<list>
+	<string>
+
+1532307649 source:c:\users\ryanb\onedrive\ryan_college files\cs-3330\project 2\project_2_codeblocks\main.cpp
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<list>
+	<string>
+	"HotelRecord.h"
+
+1532307188 source:c:\users\ryanb\onedrive\onenote documents\_ryan_college files\_classes and coursework\cs-3330 (data structures and algorithms)\project 2\project_2_codeblocks\hotelrecord.cpp
+	"HotelRecord.h"
+	<algorithm>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<list>
+	<math.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1532307188 c:\users\ryanb\onedrive\onenote documents\_ryan_college files\_classes and coursework\cs-3330 (data structures and algorithms)\project 2\project_2_codeblocks\hotelrecord.h
+	<math.h>
+	<stdio.h>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<list>
+	<string>
+
+1532307649 source:c:\users\ryanb\onedrive\onenote documents\_ryan_college files\_classes and coursework\cs-3330 (data structures and algorithms)\project 2\project_2_codeblocks\main.cpp
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<list>
+	<string>
+	"HotelRecord.h"
+
+1532307188 source:d:\_ryan_college files\_classes and coursework\cs-3330 (data structures and algorithms)\project 2\project_2_codeblocks\hotelrecord.cpp
+	"HotelRecord.h"
+	<algorithm>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<list>
+	<math.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1532307188 d:\_ryan_college files\_classes and coursework\cs-3330 (data structures and algorithms)\project 2\project_2_codeblocks\hotelrecord.h
+	<math.h>
+	<stdio.h>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<list>
+	<string>
+
+1532307188 source:c:\users\ryanb\onedrive\onenote documents\source\fullstackcourse\college_projects\hotel_reservation_system\hotelrecord.cpp
+	"HotelRecord.h"
+	<algorithm>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<list>
+	<math.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1532307188 c:\users\ryanb\onedrive\onenote documents\source\fullstackcourse\college_projects\hotel_reservation_system\hotelrecord.h
+	<math.h>
+	<stdio.h>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<list>
+	<string>
+
